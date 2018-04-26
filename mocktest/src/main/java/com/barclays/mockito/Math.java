@@ -2,6 +2,8 @@ package com.barclays.mockito;
 
 public class Math {
 
+    
+    //add method
     public int add(int a, int b){
         return a+b;
     }
