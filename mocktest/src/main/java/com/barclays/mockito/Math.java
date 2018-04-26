@@ -3,7 +3,7 @@ package com.barclays.mockito;
 public class Math {
 
     
-    //add method, returns int after operation
+    //add method, returns int after add operation
     public int add(int a, int b){
         return a+b;
     }
